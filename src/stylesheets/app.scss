@@ -1,1 +1,10 @@
 @import "base/typography";
+// Core variables and mixins
+@import "base/variables.scss";
+@import "base/mixins.scss";
+// Global CSS
+@import "base/global.scss";
+// Components
+@import "base/navbar.scss";
+@import "base/masthead.scss";
+@import "base/bootstrap-overrides.scss";
